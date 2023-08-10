@@ -7,9 +7,9 @@
 
 - [x] Abstract Factory 
 
-- [ ] ~~Builder~~
+- [ ] Builder
 
-- [ ] ~~Prototype~~
+- [ ] Prototype
 
 - [x] Singleton
 
