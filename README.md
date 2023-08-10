@@ -7,7 +7,7 @@
 
 - [x] Abstract Factory 
 
-- [ ] Builder
+- [x] Builder
 
 - [ ] Prototype 
 
