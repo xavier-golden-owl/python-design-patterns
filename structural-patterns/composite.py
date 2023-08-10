@@ -32,11 +32,14 @@ class Folder(Component):
 		self.__components.append(component)
 
 
+if __name__ == '__main__':
+	file1 = File("file1", 100)
+	file2 = File("file2", 200)
 
-file1 = File("file1", 100)
-file2 = File("file2", 200)
-folder1 = Folder("folder1", [file1, file2])
-print(folder1.size())
-folder1.add(File("file3", 300))
-print(folder1.size())
-print(folder1._Folder__components)
+	folder1 = Folder("folder1", [file1, file2])
+	folder2 = Folder("folder2", [file1, file2])
+
+	print(folder1.size())
+	folder1.add(File("file3", 300))
+	folder1.add(folder2)
+	print(folder1.size())
