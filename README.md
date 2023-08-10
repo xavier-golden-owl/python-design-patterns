@@ -20,7 +20,7 @@
 
 - [ ] Bridge 
 
-- [ ] Composite 
+- [x] Composite 
 
 - [ ] Decorator
 
