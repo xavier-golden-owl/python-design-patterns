@@ -18,7 +18,7 @@
 
 - [x] Adapter
 
-- [ ] Bridge 
+- [x] Bridge 
 
 - [x] Composite 
 
