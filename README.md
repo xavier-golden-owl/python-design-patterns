@@ -3,51 +3,51 @@
 
 ## Creational patterns
 
-[x] Factory Method
+- [x] Factory Method
 
-[x] Abstract Factory 
+- [x] Abstract Factory 
 
-[ ] Builder
+- [ ] Builder
 
-[ ] Prototype 
+- [ ] Prototype 
 
-[ ] Singleton
+- [ ] Singleton
 
 
 ## Structural patterns
 
-[ ] Adapter
+- [ ] Adapter
 
-[ ] Bridge 
+- [ ] Bridge 
 
-[ ] Composite 
+- [ ] Composite 
 
-[ ] Decorator
+- [ ] Decorator
 
-[ ] Facade
+- [ ] Facade
 
-[ ] Flyweight
+- [ ] Flyweight
 
-[ ] Proxy
+- [ ] Proxy
 
 ## Behavior patterns
 
-[ ] Chain of Responsibility
+- [ ] Chain of Responsibility
 
-[ ] Command
+- [ ] Command
 
-[ ] Iterator
+- [ ] Iterator
 
-[ ] Mediator
+- [ ] Mediator
 
-[ ] Memento
+- [ ] Memento
 
-[ ] Observer 
+- [ ] Observer 
 
-[ ] State
+- [ ] State
 
-[ ] Strategy
+- [ ] Strategy
 
-[ ] Template Method
+- [ ] Template Method
 
-[ ] Visitor
+- [ ] Visitor
