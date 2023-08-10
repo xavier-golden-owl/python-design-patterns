@@ -5,7 +5,7 @@
 
 [x] Factory Method
 
-[ ] Abstract Factory 
+[x] Abstract Factory 
 
 [ ] Builder
 

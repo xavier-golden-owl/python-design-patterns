@@ -54,6 +54,9 @@ if __name__ == "__main__":
 		dialog = WindowsDialog()
 	elif dialog_type == "Mac":
 		dialog = MacDialog()
+	else :
+		print("Invalid dialog type")
+		exit()
 
 	button = dialog.createButton()
 	button.render()
