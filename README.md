@@ -16,7 +16,7 @@
 
 ## Structural patterns
 
-- [ ] Adapter
+- [x] Adapter
 
 - [ ] Bridge 
 
