@@ -24,7 +24,7 @@
 
 - [ ] Decorator
 
-- [ ] Facade
+- [x] Facade
 
 - [ ] Flyweight
 
@@ -32,7 +32,7 @@
 
 ## Behavior patterns
 
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
 
 - [ ] Command
 
