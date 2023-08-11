@@ -48,6 +48,6 @@
 
 - [ ] Strategy
 
-- [ ] Template Method
+- [x] Template Method
 
 - [ ] Visitor
