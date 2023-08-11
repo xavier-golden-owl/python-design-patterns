@@ -34,7 +34,7 @@
 
 - [x] Chain of Responsibility
 
-- [ ] Command
+- [x] Command
 
 - [ ] Iterator
 
